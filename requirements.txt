@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+lime
+scikit-fuzzy
+scipy
+joblib
